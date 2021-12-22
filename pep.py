@@ -4,7 +4,6 @@ from collections import Counter
 import pandas as pd
 import pickle
 import numpy as np
-from flask import Flask, request, jsonify, render_template
 import pickle
 import webbrowser
 from threading import Timer
